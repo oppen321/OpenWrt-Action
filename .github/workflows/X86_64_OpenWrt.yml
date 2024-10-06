@@ -7,7 +7,7 @@ on:
 
 env:
   REPO_URL: https://github.com/openwrt/openwrt
-  REPO_BRANCH: mainin
+  REPO_BRANCH: main
   CONFIG_FILE: configs/x86_64.config
   DIY_SCRIPT: diy-script.sh
   CLASH_KERNEL: amd64
